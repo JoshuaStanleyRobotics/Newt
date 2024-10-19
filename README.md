@@ -5,4 +5,4 @@ This repository includes the CAD (.step and .f3d) and code (.ino) files for Newt
 
 The CAD and code for the remote control can be found in its own repository at https://github.com/JoshuaStanley-Hub/Robot-Remote
 
-A video outlining the design and assembly of Newt can be found at https://youtu.be/B6eqDL3F91M
+A video outlining the design and assembly of Newt can be found at https://youtu.be/t2cAbMCHIOs
